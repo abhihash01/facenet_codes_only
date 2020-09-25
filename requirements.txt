@@ -130,7 +130,7 @@ smach==2.0.1
 smach-ros==2.0.1
 smart-open==1.7.1
 smclib==1.8.1
-tensorflow==1.5.0
+tensorflow==1.15.4
 tensorflow-tensorboard==1.5.1
 tf==1.11.9
 tf-conversions==1.11.9
