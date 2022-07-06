@@ -35,7 +35,7 @@ genmsg==0.5.10
 gennodejs==2.0.1
 genpy==0.6.7
 gensim==3.6.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.7
 image-geometry==1.12.8
 imutils==0.4.5
