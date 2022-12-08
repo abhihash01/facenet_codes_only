@@ -14,7 +14,7 @@ bz2file==0.98
 camera-calibration==1.12.23
 camera-calibration-parsers==1.11.13
 catkin==0.7.6
-certifi==2018.10.15
+certifi==2022.12.7
 chardet==3.0.4
 configparser==3.5.0
 cv-bridge==1.12.8
